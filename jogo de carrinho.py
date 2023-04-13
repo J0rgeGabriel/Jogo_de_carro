@@ -54,7 +54,4 @@ while janela_aberta :
 
 pygame.quit()
 
-print("ola mundo")
-idade=float(input("DIgite sua idade por favor"))
-print(idade)
 #%%
