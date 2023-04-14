@@ -53,4 +53,5 @@ while janela_aberta :
   pygame.display.update()
 
 pygame.quit()
+print("teste")
 #%%
